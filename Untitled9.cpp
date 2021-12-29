@@ -26,8 +26,7 @@ struct student    //Structure student is made to store student attributes.
 student rec[50];  //This is basic array of defined structure to sore data.
 int main()
 {
-  system("CLS");
-  system("color B9");
+  
   int choice;   //int variable used to determine which operation user want to do.
   int idnumber;   //int variable used to record ID number whih user want to edit.
   int searchkey;  //int variable to store student roll_no by which user can search.
